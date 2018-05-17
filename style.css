@@ -1,5 +1,9 @@
+div {
+    width: 500px;
+    height: 500px;
+}
+
 p {
     color: gray;
-    font-size: 1em;
-    margin: 1em;
+    margin: 2em;
 }
